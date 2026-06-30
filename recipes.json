@@ -1,0 +1,272 @@
+[
+    {
+      "name": "Chicken Japanese Curry",
+      "category": "main",
+      "protein": "chicken",
+      "side": "rice"
+    },
+    {
+      "name": "Pasta with chicken, mushrooms and cream",
+      "category": "main",
+      "protein": "chicken",
+      "side": "pasta"
+    },
+    {
+      "name": "Baked Rice salad",
+      "category": "salad",
+      "protein": "chicken",
+      "side": "none"
+    },
+    {
+      "name": "Banana bread",
+      "category": "dessert",
+      "protein": "none",
+      "side": "none"
+    },
+    {
+      "name": "Vegetable Ikra",
+      "category": "main",
+      "protein": "chicken",
+      "side": "buckwheat"
+    },
+    {
+      "name": "Manty",
+      "category": "main",
+      "protein": "beef",
+      "side": "none"
+    },
+    {
+      "name": "Steamed cabbage",
+      "category": "main",
+      "protein": ["chicken", "beef"],
+      "side": ["pasta", "none"]
+    },
+    {
+      "name": "Stirfried veggies with meat",
+      "category": "main",
+      "protein": ["chicken", "beef"],
+      "side": ["pasta", "rice", "bulgur", "buckwheat"]
+    },
+    {
+      "name": "Olivier",
+      "category": "salad",
+      "protein": "chicken",
+      "side": "none"
+    },
+    {
+      "name": "Bliny",
+      "category": "dessert",
+      "protein": "none",
+      "side": "none"
+    },
+    {
+      "name": "Kurnik",
+      "category": "pastry",
+      "protein": "chicken",
+      "side": "none"
+    },
+    {
+      "name": "Baked chicken with potatoes",
+      "category": "main",
+      "protein": "chicken",
+      "side": "potatoes"
+    },
+    {
+      "name": "Suschi bake",
+      "category": "main",
+      "protein": ["fish", "Imitation crab"],
+      "side": "rice"
+    },
+    {
+      "name": "Salmon with cream",
+      "category": "main",
+      "protein": "fish",
+      "side": ["rice", "pasta"]
+    },
+    {
+      "name": "Chicken soup",
+      "category": "soup",
+      "protein": "chicken",
+      "side": "none"
+    },
+    {
+      "name": "Cutlets",
+      "category": "main",
+      "protein": ["beef", "chicken"],
+      "side": ["buckwheat", "rice", "pasta", "potatoes", "veggies", "bulgur"]
+    },
+    {
+      "name": "Feta bake with shrimp",
+      "category": "main",
+      "protein": "shrimp",
+      "side": "pasta"
+    },
+    {
+      "name": "Buzara shrimp",
+      "category": "main",
+      "protein": "shrimp",
+      "side": "bread"
+    },
+    {
+      "name": "Beshbarmak",
+      "category": "main",
+      "protein": "horse meat",
+      "side": "none"
+    },
+    {
+      "name": "Golushki",
+      "category": "main",
+      "protein": "horse meat",
+      "side": "none"
+    },
+    {
+      "name": "Semi-pickled cabbage",
+      "category": "salad",
+      "protein": "none",
+      "side": "none"
+    },
+    {
+      "name": "Spinach puffs",
+      "category": "pastry",
+      "protein": "none",
+      "side": "none"
+    },
+    {
+      "name": "Lentil soup",
+      "category": "soup",
+      "protein": ["chicken", "none"],
+      "side": "none"
+    },
+    {
+      "name": "Chicken garlic parmesan pasta",
+      "category": "main",
+      "protein": "chicken",
+      "side": "pasta"
+    },
+    {
+      "name": "Kong guksu",
+      "category": "main",
+      "protein": ["chicken", "none"],
+      "side": "noodles"
+    },
+    {
+      "name": "Funchoza",
+      "category": ["main", "salad"],
+      "protein": "chicken",
+      "side": "noodles"
+    },
+    {
+      "name": "Pasta Carbonara",
+      "category": "main",
+      "protein": "pork",
+      "side": "pasta"
+    },
+    {
+      "name": "Lasagna",
+      "category": "main",
+      "protein": "beef",
+      "side": "none"
+    },
+    {
+      "name": "Kuksi",
+      "category": "main",
+      "protein": "beef",
+      "side": "noodles"
+    },
+    {
+      "name": "Tuna salad",
+      "category": "salad",
+      "protein": "fish",
+      "side": "none"
+    },
+    {
+      "name": "Pasta salad",
+      "category": "salad",
+      "protein": ["chicken", "fish", "none"],
+      "side": "none"
+    },
+    {
+      "name": "Pirozhki",
+      "category": "pastry",
+      "protein": ["beef", "chicken", "none"],
+      "side": "none"
+    },
+    {
+      "name": "Chili con carne",
+      "category": "main",
+      "protein": "beef",
+      "side": "rice"
+    },
+    {
+      "name": "Mac'n'Cheese",
+      "category": "main",
+      "protein": "none",
+      "side": "pasta"
+    },
+    {
+      "name": "Pancakes",
+      "category": "dessert",
+      "protein": ["none", "protein powder"],
+      "side": "none"
+    },
+    {
+      "name": "Meatballs",
+      "category": "main",
+      "protein": "beef",
+      "side": ["buckwheat", "bulgur", "pasta", "potatoes"]
+    },
+    {
+      "name": "Garlic soup",
+      "category": "soup",
+      "protein": "none",
+      "side": "none"
+    },
+    {
+      "name": "Baursaki",
+      "category": "pastry",
+      "protein": "none",
+      "side": "none"
+    },
+    {
+      "name": "Zalivnoy Pirog",
+      "category": "pastry",
+      "protein": ["beef", "chicken"],
+      "side": "none"
+    },
+    {
+      "name": "Stirfried chicken in chili sauce",
+      "category": "main",
+      "protein": "chicken",
+      "side": ["rice", "bulgur"]
+    },
+    {
+      "name": "Filled pita bread",
+      "category": "main",
+      "protein": ["beef", "chicken"],
+      "side": "none"
+    },
+    {
+      "name": "Tortilals",
+      "category": "main",
+      "protein": ["beef", "chicken"],
+      "side": "none"
+    },
+    {
+      "name": "Cinnamon Rolls",
+      "category": "dessert",
+      "protein": "none",
+      "side": "none"
+    },
+    {
+      "name": "Spinach pasta",
+      "category": "main",
+      "protein": "fish",
+      "side": "pasta"
+    },
+    {
+      "name": "Chocolate Kuchen",
+      "category": "dessert",
+      "protein": "none",
+      "side": "none"
+    }
+  ]
